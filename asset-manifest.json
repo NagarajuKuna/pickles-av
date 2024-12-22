@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pickles-av/static/css/main.d6f27512.css",
+    "main.js": "/pickles-av/static/js/main.72a8b77e.js",
+    "static/media/bootstrap-icons.woff?": "/pickles-av/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/pickles-av/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/pickles-av/index.html",
+    "main.d6f27512.css.map": "/pickles-av/static/css/main.d6f27512.css.map",
+    "main.72a8b77e.js.map": "/pickles-av/static/js/main.72a8b77e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f27512.css",
+    "static/js/main.72a8b77e.js"
+  ]
+}
